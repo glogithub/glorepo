@@ -16,7 +16,7 @@ Log::Log4perl->init_and_watch("logfile.conf", 'HUP');
 
 my $logger = Log::Log4perl->get_logger();
 
-## begin CONFIG
+# begin CONFIG
 
 my $connstr = 'DBI:mysql:pflow:ncollector.gloriad.org:mysql_socket=/private/tmp/mysql.sock';
 my $user    = '*****';
