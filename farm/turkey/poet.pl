@@ -76,7 +76,7 @@ foreach my $key (keys %farm) {
 #
 ##############################################################################################
 # procedure for setting up a new IKC server connection.  This is separated out
-# so that we can call it independently for an IKC server if we detect that one has
+# so that we can cal it independently for an IKC server if we detect that one has
 # gone away
 
 sub connectIKCServer {
