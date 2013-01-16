@@ -1,0 +1,123 @@
+rabins[42008]: 1358317725.408984 connect to 127.0.0.1:561 failed 'Connection refused'
+DBD::SQLite::db selectrow_array failed: database is locked at ./live.pl line 117.
+DBD::SQLite::db selectrow_array failed: database is locked at ./live.pl line 118.
+DBD::SQLite::st execute failed: database is locked at ./live.pl line 120.
+Use of uninitialized value $res in concatenation (.) or string at ./live.pl line 121.
+DBD::SQLite::st execute failed: database is locked at ./live.pl line 122.
+Use of uninitialized value $res in concatenation (.) or string at ./live.pl line 123.
+DBD::SQLite::db selectrow_array failed: database is locked at ./live.pl line 117.
+DBD::SQLite::db selectrow_array failed: database is locked at ./live.pl line 118.
+rabins[42298]: 1358320843.918286 connect to 127.0.0.1:561 failed 'Connection refused'
+DBD::SQLite::db selectrow_array failed: database is locked at ./live.pl line 117.
+DBD::SQLite::db selectrow_array failed: database is locked at ./live.pl line 118.
+DBD::SQLite::st execute failed: database is locked at ./live.pl line 120.
+Use of uninitialized value $res in concatenation (.) or string at ./live.pl line 121.
+DBD::SQLite::st execute failed: database is locked at ./live.pl line 122.
+Use of uninitialized value $res in concatenation (.) or string at ./live.pl line 123.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
+Use of uninitialized value $country_d in concatenation (.) or string at ./live.pl line 327.
